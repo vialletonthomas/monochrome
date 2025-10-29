@@ -1,0 +1,10 @@
+.section1 {
+background-image:url("asset/bg-image-hero.png") /* image de fond */
+}
+
+.textwhite{
+    color: white;
+}
+.section2{
+    background-image: url("asset/bg-image-2.png");
+}
